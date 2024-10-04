@@ -133,3 +133,7 @@ https://login-register-backend-1p5h.onrender.com
 login secundario por si es necesario, en caso no funcionara el anterior:
 
 https://api-login-registro-backend.onrender.com
+
+Despliegue de la pagina del frontend en Netlify
+
+https://teal-chimera-3ef45f.netlify.app 
