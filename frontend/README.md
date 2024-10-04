@@ -103,7 +103,7 @@ Para ejecutar el proyecto en tu máquina local, sigue los siguientes pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/JosueD123/TAREANO.3DESARROLLOWEB.git
+   https://github.com/JosueD123/TAREANO.3DESARROLLOWEB.git
 
 2. Instala las dependencias del backend:
 
@@ -125,3 +125,11 @@ npm start
 
 Uso
 Después de iniciar tanto el backend como el frontend, la aplicación estará disponible en http://localhost:3000 para el frontend y en http://localhost:5000 para el backend.
+
+6. Enlace de Render, de la API:
+
+https://login-register-backend-1p5h.onrender.com
+
+login secundario por si es necesario, en caso no funcionara el anterior:
+
+https://api-login-registro-backend.onrender.com
